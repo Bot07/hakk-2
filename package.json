@@ -1,0 +1,22 @@
+{
+  "name": "simit",
+  "version": "0.0.1",
+  "description": "bot",
+  "main": "bot.js",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "discord.js": "^11.3.0",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.2.28",
+    "moment": "^2.20.1",
+    "moment-duration-format": "^2.2.1",
+    "npm": "^5.7.1",
+    "ytdl-core": "^0.20.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Console.Write (\"Hakkı AKYOL\")",
+  "license": "MIT"
+}
