@@ -862,7 +862,7 @@ return client.channels.get('449238859780194305').sendMessage(embed);
 	
 
 	
-	client.on("message", msg => {
+client.on("message", async msg => {
 
   if (msg.author.bot) return;
 
